@@ -1,0 +1,85 @@
+.user{
+    margin: 1% 39%;
+    background-color: aliceblue;
+    padding: 10px;
+    font-family: sans-serif;
+    width: 20%;
+    border: rgb(56, 96, 134) 3px solid;
+    overflow: auto;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 75%;
+    
+}
+
+.name{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.user button{
+    background-color: rgb(56, 96, 134);
+    color: #ffffff;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    font-size: 10px;
+}
+
+body h1{
+    color: rgb(255, 255, 255);
+    text-align:center;
+    margin: auto;
+}
+
+a button{
+    background-color: rgb(56, 96, 134);
+    color: #ffffff;
+    padding: 10px 20px;
+    margin: 8px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 22%;
+    opacity: 0.9;
+    font-size: 10px;
+    margin: 5% 39%;
+}
+
+#formulario{
+    margin: 5% 42%;
+    background-color: aliceblue;
+    padding: 15px;
+    font-family: sans-serif;
+    width: 14%;
+    border: rgb(56, 96, 134) 3px solid;
+    overflow: auto;
+    border-radius: 10px;
+    text-align: center;
+    opacity: 0.75;
+}
+
+#formulario button{
+    background-color: rgb(56, 96, 134);
+    color: #ffffff;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 100%;
+    font-size: 10px;
+}
+
+#formulario input{
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 3px;    
+}
+
+body {
+    height: 100%;
+    background-image: url("https://images.pexels.com/photos/1532771/pexels-photo-1532771.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
